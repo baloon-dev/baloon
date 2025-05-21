@@ -2,7 +2,7 @@
   <img src="https://baloon.dev/images/baloon-logo-transparent.png" width="220" alt="Baloon Logo" />
 </p>
 
-# Baloon – Edit Your GitHub Codebase From Jira
+# Baloon.dev - Edit Your GitHub Codebase From Jira using AI
 
 **Baloon** connects your Jira and GitHub workflows, allowing **product managers and designers to edit UI directly from Jira tickets**, generate previews, and ship pull requests – without writing code.
 
