@@ -1,25 +1,70 @@
-# Baloon – Edit Your GitHub Codebase from Jira
+<p align="center">
+  <img src="https://baloon.dev/images/baloon-logo-transparent.png" width="220" alt="Baloon Logo" />
+</p>
 
-Baloon lets product managers and designers push UI changes directly from Jira – no developer needed.
+# Baloon – Edit Your GitHub Codebase From Jira
 
-## 🔧 What It Does
-- Live preview of your GitHub React repo
-- No-code editor powered by AI
-- Auto-generates GitHub pull requests
-- Jira bot integration for ticket-based workflows
+**Baloon** connects your Jira and GitHub workflows, allowing **product managers and designers to edit UI directly from Jira tickets**, generate previews, and ship pull requests – without writing code.
 
-## 🚀 Try it
-👉 [https://baloon.dev](https://baloon.dev)  
-👉 Join beta: [Discord](https://discord.gg/Kfpgprxwmr)
+---
 
-## 📦 Setup
-1. Invite `bot@baloon.dev` to your Jira board  
+<p align="center">
+  <img src="https://storage.googleapis.com/baloon-dev/images/baloon-jira-demo.gif" width="100%" alt="Baloon Jira Demo" />
+</p>
+
+---
+
+## ✨ What It Does
+
+- Live preview of your GitHub frontend repo (React, Next.js, etc.)
+- Visual editor powered by AI (text, spacing, fonts, etc.)
+- PRs are auto-generated and pushed to GitHub
+- Jira Bot lets you do this *directly from your Jira board*
+
+---
+
+## 🚀 How to Get Started
+
+1. Invite 👉 `bot@baloon.dev` to your Jira board  
 2. Assign it a ticket  
-3. Click “Edit UI”  
-4. Approve the PR in GitHub
+3. Click “Edit UI” from the Jira sidebar  
+4. Make your changes  
+5. A GitHub pull request is generated automatically ✅
 
-## 💬 Feedback
-Use [Discussions](https://github.com/baloon-dev/baloon/discussions) or post in [Discord](https://discord.gg/Kfpgprxwmr)
+👉 **Try it now:** [https://baloon.dev](https://baloon.dev)  
+💬 **Join our Discord:** [https://discord.gg/Kfpgprxwmr](https://discord.gg/Kfpgprxwmr)
+
+---
+
+## 🧠 Why It Matters
+
+- Product managers can ship quick UI changes without waiting for devs
+- Designers can preview real code updates instantly
+- Engineers can stay focused on complex work, while small fixes ship faster
+
+---
+
+## 📂 Repo Structure (WIP)
+
+We plan to add:
+- Sample React/Next.js repo for testing
+- Baloon CLI & SDK (if needed)
+- Advanced docs for self-hosting or integration
+
+---
+
+## 💬 Feedback & Support
+
+- Open a GitHub **Discussion** for feature ideas or questions  
+- Report bugs in **Issues**  
+- Or just ping us in [Discord](https://discord.gg/Kfpgprxwmr)
+
+---
 
 ## License
-TBD – core platform is private, SDKs and docs are public.
+
+Currently private. May open-source components (like SDKs or templates) later.
+
+---
+
+Built with ❤️ by the team at [baloon.dev](https://baloon.dev)
